@@ -7,7 +7,7 @@ name = "dll"
 version = "0.1.0"
 description = "Doubly Linked List implementation in Python"
 authors = [
-    { name="Ahmedhm1" }
+    { name="Ahmedhm1", email="ahhi9014@email.com" }
 ]
 license = { text = "MIT" }
 dependencies = []
