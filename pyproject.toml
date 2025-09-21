@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dll"
+version = "0.1.0"
+description = "Doubly Linked List implementation in Python"
+authors = [
+    { name="Ahmedhm1" }
+]
+license = { text = "MIT" }
+dependencies = []
