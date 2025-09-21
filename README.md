@@ -16,7 +16,7 @@ This project implements a **Doubly Linked List (DLL)** in Python with the follow
 If you just want to try the list without installing anything, copy **`doubly_linked_list.py`** into the same folder as your project and use:
 
 ```python
-from doubly_linked_list import DoublyLinkedList
+from dll import DoublyLinkedList
 
 dll = DoublyLinkedList()
 dll.insert_at_end(10)
@@ -42,7 +42,7 @@ pip install git+https://github.com/Ahmedhm1/DLL---Doubly-Linked-List-Python.git
 Now you can import it anywhere:
 
 ```python
-from doubly_linked_list import DoublyLinkedList
+from dll import DoublyLinkedList
 
 dll = DoublyLinkedList()
 dll.insert_at_end(100)
@@ -56,7 +56,7 @@ print(dll)  # Output: 100 <-> 200 <-> 300
 ## 🔎 Example Usage
 
 ```python
-from doubly_linked_list import DoublyLinkedList
+from dll import DoublyLinkedList
 
 # Create list and insert values
 dll = DoublyLinkedList()
@@ -90,7 +90,7 @@ print(dll.get_at_index(0))  # Get value at index 0
 ```
 Doubly-Linked-List/
 │
-├── doubly_linked_list/       # Package source code
+├── dll/       # Package source code
 │   ├── __init__.py           # Exports DoublyLinkedList
 │   └── doubly_linked_list.py # DLL implementation
 │
