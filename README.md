@@ -16,7 +16,7 @@ This project implements a **Doubly Linked List (DLL)** in Python with the follow
 If you just want to try the list without installing anything, copy **`doubly_linked_list.py`** into the same folder as your project and use:
 
 ```python
-from dll import DoublyLinkedList
+from doubly_linked_list import DoublyLinkedList
 
 dll = DoublyLinkedList()
 dll.insert_at_end(10)
