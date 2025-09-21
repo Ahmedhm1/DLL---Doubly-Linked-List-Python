@@ -36,7 +36,7 @@ If you want to use this as a Python package, you first need **Git installed**.
 Then install directly from GitHub using pip:
 
 ```bash
-pip install git+https://github.com/Ahmedhm1/Doubly-Linked-List.git
+pip install git+https://github.com/Ahmedhm1/DLL---Doubly-Linked-List-Python.git
 ```
 
 Now you can import it anywhere:
