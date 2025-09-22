@@ -103,4 +103,4 @@ Doubly-Linked-List/
 ---
 
 ## 📖 Source Code
-➡️ [View `doubly_linked_list.py`](./doubly_linked_list/doubly_linked_list.py) directly if you just want to read the implementation.
+➡️ [View `doubly_linked_list.py`](./dll/doubly_linked_list.py) directly if you just want to read the implementation.
