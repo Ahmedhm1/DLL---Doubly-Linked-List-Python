@@ -94,10 +94,9 @@ Doubly-Linked-List/
 │   ├── __init__.py           # Exports DoublyLinkedList
 │   └── doubly_linked_list.py # DLL implementation
 │
-├── test.py                   # Example test file
-├── setup.py                  # Package setup script
-├── pyproject.toml            # (Optional) modern build file
-└── README.md
+├── README.md
+├── pyproject.toml    # modern build file
+└── setup.py          # Package setup script
 ```
 
 ---
